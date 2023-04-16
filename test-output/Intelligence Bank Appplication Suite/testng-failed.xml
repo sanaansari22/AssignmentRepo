@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Intelligence Bank Appplication Suite]" guice-stage="DEVELOPMENT">
+  <test name="Intelligence Bank Contact Test(failed)">
+    <classes>
+      <class name="com.bank.qa.test.ContactPageTest">
+        <methods>
+          <include name="setupTest"/>
+          <include name="tearDown"/>
+          <include name="fillInContactForm"/>
+        </methods>
+      </class> <!-- com.bank.qa.test.ContactPageTest -->
+    </classes>
+  </test> <!-- Intelligence Bank Contact Test(failed) -->
+</suite> <!-- Failed suite [Intelligence Bank Appplication Suite] -->

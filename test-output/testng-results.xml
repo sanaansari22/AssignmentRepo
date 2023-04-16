@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-16T14:08:42Z" name="Intelligence Bank Appplication Suite" finished-at="2023-04-16T14:09:36Z" duration-ms="54051">
+    <groups>
+    </groups>
+    <test started-at="2023-04-16T14:08:42Z" name="Intelligence Bank Contact Test" finished-at="2023-04-16T14:09:36Z" duration-ms="54051">
+      <class name="com.bank.qa.test.ContactPageTest">
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.bank.qa.test.ContactPageTest@6be968ce]" started-at="2023-04-16T19:38:43Z" name="setupTest" finished-at="2023-04-16T19:39:03Z" duration-ms="20335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="fillInContactForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bank.qa.test.ContactPageTest@6be968ce]" started-at="2023-04-16T19:39:03Z" name="fillInContactForm" data-provider="getData" finished-at="2023-04-16T19:39:11Z" duration-ms="7667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Grey]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tom@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8989898989]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Referral]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillInContactForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.qa.test.ContactPageTest@6be968ce]" started-at="2023-04-16T19:39:11Z" name="tearDown" finished-at="2023-04-16T19:39:12Z" duration-ms="829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.bank.qa.test.ContactPageTest@6be968ce]" started-at="2023-04-16T19:39:12Z" name="setupTest" finished-at="2023-04-16T19:39:28Z" duration-ms="16194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="fillInContactForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bank.qa.test.ContactPageTest@6be968ce]" started-at="2023-04-16T19:39:28Z" name="fillInContactForm" data-provider="getData" finished-at="2023-04-16T19:39:35Z" duration-ms="7698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Microsoft]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wilson]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[peter@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8787876666]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Aruba]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Webinar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillInContactForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.qa.test.ContactPageTest@6be968ce]" started-at="2023-04-16T19:39:35Z" name="tearDown" finished-at="2023-04-16T19:39:36Z" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.qa.test.ContactPageTest -->
+    </test> <!-- Intelligence Bank Contact Test -->
+  </suite> <!-- Intelligence Bank Appplication Suite -->
+</testng-results>

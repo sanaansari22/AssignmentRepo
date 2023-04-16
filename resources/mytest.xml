@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Intelligence Bank Appplication Suite">
+
+  <listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+  <test name="Intelligence Bank Contact Test">
+    <classes>
+      <class name="com.bank.qa.test.ContactPageTest"/>
+    </classes>
+  </test>
+</suite>
